@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)]
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Akaash</h1>
 <h3 align="center">A passionate Software Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
